@@ -26,6 +26,12 @@ Acesse o portfólio online: [eduarda-andrade-dev.github.io](https://eduarda-andr
 
 ---
 
+## 📂 Projetos em Destaque / Featured Projects
+- [Inventory Control System](https://github.com/eduarda-andrade-dev/inventory-control-python): Desenvolvimento em Python com foco em lógica e integridade de dados.
+- [Systems Analysis - BergaWorks](https://github.com/eduarda-andrade-dev/analise-bergaworks): Estudo de caso focado em levantamento de requisitos e metodologias ágeis.
+
+---
+
 ## Formação / Education
 - **Análise e Desenvolvimento de Sistemas (Systems Analysis and Development)** | UNINTER (2025 - Presente)
 - **Design Gráfico (Graphic Design)** | UNIFG (Concluído)
