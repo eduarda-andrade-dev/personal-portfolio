@@ -7,7 +7,7 @@
 ---
 
 ## Link do Site / Live Site
-Acesse o portfólio online: [eduarda-andrade-dev.github.io](https://eduarda-andrade-dev.github.io)
+Acesse o portfólio online: [eduarda-andrade-dev.github.io](https://eduarda-andrade-dev.github.io/personal-portfolio/)
 
 ---
 
